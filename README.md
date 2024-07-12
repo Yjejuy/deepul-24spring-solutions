@@ -1,4 +1,4 @@
-# deepul-SP24-solutions
+# deepul-24spring-solutions
 Personal solutions for CS 294-158 Deep Unsupervised Learning Spring 2024.
 
 # Organization of the notebook
